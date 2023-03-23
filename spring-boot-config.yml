@@ -4,7 +4,7 @@ app:
 my:
  greeting:
  list:
-  values: one,two, git,server,live , specific
+  values: one,two, git,server,live , specific, finale
 dbValues: "{connectionString: 'http', userName:'foo', password: 'pass'}"
 
 db:
